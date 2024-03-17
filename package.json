@@ -20,6 +20,8 @@
     "@types/react": "^18.2.63",
     "@types/react-dom": "^18.2.20",
     "astro": "^4.4.12",
+    "capture-website": "^4.1.0",
+    "geist": "^1.2.2",
     "mysql": "^2.18.1",
     "puppeteer-core": "^22.5.0",
     "react": "^18.2.0",
